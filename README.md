@@ -1,3 +1,3 @@
 # portfolio
 This is first repository
-This is first commoit
+This is first commit
